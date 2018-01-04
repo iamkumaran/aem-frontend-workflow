@@ -1,8 +1,4 @@
 # aem-frontend-workflow
-AEM Frontend Workflow using gulp. This workflow helps to push HTML, CSS, SASS, JavaScript files to AEM instance without using Maven (mvn clean install).
-
-
-# aem-frontend-workflow
 
 AEM Frontend Workflow using gulp. This workflow helps to push HTML, CSS, SASS, JavaScript files to AEM instance without using Maven (mvn clean install).
 
