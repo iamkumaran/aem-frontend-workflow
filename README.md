@@ -51,8 +51,6 @@ var mainPath        = 'aem-codebase/ui.apps/src/main/content/jcr_root/';
     // Images
     imgPath         = mainPath + 'etc/clientlibs/aem-codebase/images/';
 
-Also validate, if these path are correct. Else update it with correct path,
-
 ```
 
 Open cmd/terminal from that location and install npm packages,
