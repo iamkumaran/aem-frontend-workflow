@@ -4,7 +4,7 @@ AEM Frontend Workflow using gulp. This workflow helps to push HTML, CSS, SASS, J
 
 ## Getting Started
 
-The workflow to run Maven build and deploy WAR file automatically whenever a file is changed.
+The workflow to sling HTML, CSS, JS and Images to AEM without Maven build. It is painful to run "mvn clean install" everytime when we changes the files. This workflow has watcher which will automatically push the files to AEM instance whenever they are modified.
 
 ### Prerequisites
 
