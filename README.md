@@ -19,6 +19,7 @@ Install NodeJS
 ```
 
 Install Gulp
+
 Open cmd or terminal and run the following command to install gulp,
 
 ```
