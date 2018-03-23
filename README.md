@@ -12,6 +12,7 @@ What things you need to install the software and how to install them
 
 ```
 Install NodeJS
+SASS
 ```
 
 Install Gulp
@@ -20,6 +21,14 @@ Open cmd or terminal and run the following command to install gulp,
 
 ```
 npm install gulp-cli -g
+```
+
+For Windows Only
+
+On Windows, if you encounter any errors related to python or .net frameworks then install this,
+
+```
+npm install --global --production windows-build-tools
 ```
 
 ### Installing
