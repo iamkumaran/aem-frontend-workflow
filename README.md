@@ -10,9 +10,12 @@ The workflow to sling HTML, CSS, JS and Images to AEM without Maven build. It is
 
 What things you need to install the software and how to install them
 
+Install
+
 ```
-Install NodeJS
-SASS
+NodeJS
+Python 2.7.14
+.NET Framework 2.0 Software Development Kit (SDK) [Windows only]
 ```
 
 Install Gulp
@@ -21,6 +24,12 @@ Open cmd or terminal and run the following command to install gulp,
 
 ```
 npm install gulp-cli -g
+```
+
+Install Sass
+
+```
+npm install -g sass
 ```
 
 For Windows Only
